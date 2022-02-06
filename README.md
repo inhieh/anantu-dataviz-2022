@@ -9,7 +9,7 @@ Data Viz + User Testing Course for Anant U  (Feb 7 - March 7 2022)
 
 In this assignment, you will make two designs.
 
-Each design will use **position**, **size**, **shape**, **value**, **color**, **orientation** and **texture**, to represent numbers from 1, 5, 10 to 100. 
+Each design will use **position**, **size**, **shape**, **value**, **color**, **orientation** and **texture**, to **represent numbers from 1, 5, 10 to 100**. 
 
 (1) **In your first design**, work in the 2 dimensional plane. Please use graphical variables we are introduced to today, and 
 **represent quantity 1, 5, 10 and 100**. [This one](https://www.figma.com/file/PKKJAx6Cy6YpSESg3IJyZT/Retinal-Variables-Exercise) was my attempt. 
