@@ -3,7 +3,10 @@ Data Viz + User Testing Course for Anant U  (Feb 7 - March 7 2022)
 
 (*This page will be updated as the course progresses)
 
-## Day 1
+## Day 1 
+### Class Profile and Inspiration Presentation (DUE: 10PM, Day 1)
+**Please fill out the class profile and sign up for the inspiration presentation**  [Here](https://docs.google.com/spreadsheets/d/1hqO6sTgWDcqLJRc5cOU7MpTVHtszK8ja8HXTSAnR7wU/)
+
 ### Small Assignment #1 (Due: 1AM, Day 2)
 **Create your own interpretation of Bertin's visual variables.** 
 
