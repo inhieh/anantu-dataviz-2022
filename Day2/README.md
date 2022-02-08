@@ -3,7 +3,7 @@
 ### P5.js
 1. A friendly and well-supported Javascript library environment to learn coding
 2. Concepted around sketching and drawing 
-3. [Coding Train](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA): Best Tutorial In the World
+3. [Coding Train](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA): Best Tutorial In the World 
 4. On the Officlal Site: [Basic Tutorials](https://p5js.org/learn/) | [Reference](https://p5js.org/reference) (Please get into a habit of reading reference when you are using a certain function)
 5. [P5 program flow](https://p5js.org/learn/program-flow.html) - Maybe Worth Reading
 
@@ -25,7 +25,7 @@
 2. [Image Color Picker](https://imagecolorpicker.com/en)
 3. [RGB to Hex](https://www.rapidtables.com/convert/color/rgb-to-hex.html) 
 
-### SMALL ASSIGNMENT 2
+### SMALL ASSIGNMENT 2 (DUE: 1AM Day 3)
 #### Create an Abstract Drawing Made of Points, Lines and Planes. 
 At this Point, do not worry about concept. Focus on making things happen on screen. 
 Visual Insprirations: Kandinsky, Mondrian, Paul Klee, Bauhaus artists, Sol Lewitt Or Find your own Inspiration
