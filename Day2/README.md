@@ -1,10 +1,12 @@
-## P5
+## DAY 2 
+
+### P5.js
 1. A friendly and well-supported environment to learn coding
 2. Concepted around sketching and drawing 
 3. Awesome Documentation on https://p5js.org/reference/ : Please do read reference here when you are using a certain function
 4. [Maybe worth reading: p5 program flow](https://p5js.org/learn/program-flow.html)
 
-## LAB 
+### LAB 
 1. [Open up the web editor](https://editor.p5js.org/): Sign up / Basic Environment 
 2. Web Coordinate System (The Top Left corner is set to 0, 0)
 3. [setup()](https://editor.p5js.org/lee.inhye/sketches/Ma4rAz2pt)
@@ -17,13 +19,13 @@
 10. [drawing with array, color(), lerpColor()](https://editor.p5js.org/lee.inhye/sketches/N7N9gwFCE)
 11. [for loop - drawing mode: push pop and translate](https://editor.p5js.org/lee.inhye/sketches/B3a3izUGr)
 
-## More on Color Basics 
+### More on Color Basics 
 1. [ColorMode](https://www.figma.com/file/S6djsp51ihfuN3J8glty3G): Let's check different ColorModes on Figma
 2. [Image Color Picker](https://imagecolorpicker.com/en)
 3. [RGB to Hex](https://www.rapidtables.com/convert/color/rgb-to-hex.html) 
 
-## SMALL ASSIGNMENT 2
-### Create an Abstract Drawing Made of Points, Lines and Planes about Contrasting Concepts
+### SMALL ASSIGNMENT 2
+#### Create an Abstract Drawing Made of Points, Lines and Planes about Contrasting Concepts
 
 1. Concept Examples (Our Variables Set)
 - Happy - Sad, Moving - Static, Equilibrium - Chaos, Low - High, Hot - Cold, Hungry - Full
@@ -40,9 +42,9 @@
 10. Jot down your questions that may have occured while you are working on it (either technical or creative) 
 
 ### Other Rules to Consider When Code
-1. Set the canvas size. The canvas can be as big as you want, minimum 600, 600 (createCanvas)
-2. Use a variety of 2d primitive shapes (point, line, rect, ellipse, circle, arc.... 
-3. Set the right drawing mode for your shapes - ex: rectMode..)
+1. The canvas can be as big as you want. Let's make it > 600, 600 - createCanvas
+2. Use a variety of 2d primitive shapes  - point, line, rect, ellipse, circle, arc....)
+3. Set the right drawing mode for your shapes - ex: rectMode..
 4. Experiment with colors - colorMode(), fill(), stroke(), color(), lerpColor()
 5. If you are just making a static drawing, you only work in setup(), If you have an element that needs animation or color change, you can also utilize draw()
 6. Use an array with loop (for loop/forEach) when you see fit
