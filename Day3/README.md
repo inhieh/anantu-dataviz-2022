@@ -24,6 +24,7 @@
 2. Set up **your own logic** to visually express these concepts ex) Equilibrium, Chaos
 *  "Equilibrium" will be shown with lines that have same orientation and same size for the stroke thickness, 
 * "Chaos" - Lines will have all different orientations and different thicknesses 
+* Slightly different concept but [this](http://inhyelee.com/studio/face-clock-2019/) was my attempt to visualize 4 time variables (hour, minute, second, am/pm): 1) Setting the Logic -> Apply the Logic to variables 
 3. Start with a sketch on a paper in Class (3 Variations)
 4. Create a p5 sketch of your idea with codes
 5. When you are successful at visualizing one concept, create another one with different concepts ex) Happy, Sad
@@ -40,4 +41,6 @@
 4. Experiment with colors - colorMode(), fill(), stroke(), color(), lerpColor()
 5. If you are just making a static drawing, you only work in setup(), If you have an element that needs animation or color change, you can also utilize draw()
 6. Use an array with loop (for loop/forEach) when you see fit
-7. Share your web links with the class 
+7. Try setting the drawing mode with push()/pop() and displace objects using translate()
+8. Import typefaces when necessary in preload()
+9. Share your web links with the class 
