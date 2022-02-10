@@ -19,8 +19,10 @@
 
 ### SMALL ASSIGNMENT 3 (Similar to #2 but with Variables)
 #### Create an Abstract Drawing Made of Points, Lines and Planes about Contrasting Concepts
-1. Concept Examples (Our Variables Set): They can have multiple values in between (ex: overjoyed - happy - neutral - sad - depressed)
+1. Concept Examples (Our Variables Set)
 - Happy - Sad, Moving - Static, Equilibrium - Chaos, Low - High, Hot - Cold, Hungry - Full, Rich - Poor
+- They can have multiple values in between and it can be represented with numerical values
+- (ex: overjoyed (5) - happy (4) - neutral (3) - sad (2) - depressed (1) )
 2. Set up **your own logic** to visually express these concepts ex) Equilibrium, Chaos
 *  "Equilibrium" will be shown with lines that have same orientation and same size for the stroke thickness, 
 * "Chaos" - Lines will have all different orientations and different thicknesses 
