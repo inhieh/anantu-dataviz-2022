@@ -20,7 +20,7 @@
 ### Resources
 1. [Pivot Table Tutorial](https://www.youtube.com/watch?v=0bojnxjNMTM)
 
-### Small Assignment #4
+### Small Assignment #4 (DUE 1PM Day 6)
 1. Go over how to work with table object in p5.js. For example, how can you get the data from the third row & second column?
 2. After you can access data point as you desired, think about how to represent this dataset graphically- What do you want to show? What is the question you want to answer in this graphical representation? (you can take either icecream or iris csv)
     1. For Example,
@@ -31,6 +31,12 @@
     2. All icecream ratings view
     3. Comparing Icecream rating/price view
     4. (Or Some other aspect you discovered about your icecream data)
-4. Translate your design into Code.
-5. Try Adding a text value to indicate what we are looking at. 
-6. Make things clear so we can understand 
+4. For Initial Exploration, try utilizing pivot table and chart it out using "Chart" function in Google Spreadsheet. See how you may be able to improve the usual conventional chart representation in your own custom design
+
+The following part can be done later
+5. Translate your design into Code.
+6. Try Adding a text value to indicate what we are looking at. 
+7. Make things clear so we can understand 
+
+Midterm and Final can be done as a group. One group can have 3 people max. I'm expecting a full-fledged project from a group work. 
+You also have a freedom to work alone. 
