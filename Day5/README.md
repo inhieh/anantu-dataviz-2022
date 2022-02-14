@@ -34,9 +34,9 @@
 4. For Initial Exploration, try utilizing pivot table and chart it out using "Chart" function in Google Spreadsheet. See how you may be able to improve the usual conventional chart representation in your own custom design
 
 The following part can be done later
-5. Translate your design into Code.
-6. Try Adding a text value to indicate what we are looking at. 
-7. Make things clear so we can understand 
+1. Translate your design into Code.
+2. Try Adding a text value to indicate what we are looking at. 
+3. Make things clear so we can understand 
 
-Midterm and Final can be done as a group. One group can have 3 people max. I'm expecting a full-fledged project from a group work. 
-You also have a freedom to work alone. 
+**Midterm and Final can be done as a group. One group can have 3 people max. I'm expecting a full-fledged project from a group work. 
+You also have a freedom to work alone.** 
