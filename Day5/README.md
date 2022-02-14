@@ -21,17 +21,20 @@
 1. [Pivot Table Tutorial](https://www.youtube.com/watch?v=0bojnxjNMTM)
 
 ### Small Assignment #4 (DUE 1PM Day 6)
-1. Go over how to work with table object in p5.js. For example, how can you get the data from the third row & second column?
-2. After you can access data point as you desired, think about how to represent this dataset graphically- What do you want to show? What is the question you want to answer in this graphical representation? (you can take either icecream or iris csv)
+1. Go over how to work with a table object in p5.js. For example, how can you get the data from the third row & second column?
+2. After you can access data points as you desired, think about how to represent this dataset graphically 
+- What do you want to show? 
+- What is the question you want to answer in this graphical representation? 
+- (you can take either icecream.csv or iris csv for this exercise)
     1. For Example,
         1. I want to show which icecream is the cheapest
         2. I want to know which ice cream is cheap but has a good rating.
-3. Start by drawing your plan on paper - Your design can include multiple segment such as following 
+3. Start by drawing your plan on paper - Your design can include multiple segments such as following 
     1. All icecream prices view
     2. All icecream ratings view
     3. Comparing Icecream rating/price view
     4. (Or Some other aspect you discovered about your icecream data)
-4. For Initial Exploration, try utilizing pivot table and chart it out using "Chart" function in Google Spreadsheet. See how you may be able to improve the usual conventional chart representation in your own custom design
+4. For Initial Exploration, try utilizing a pivot table and chart it out using "Chart" function in Google Spreadsheet. See how you may be able to improve the usual conventional chart representation in your own custom design
 
 The following part can be done later
 1. Translate your design into Code.
