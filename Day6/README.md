@@ -1,7 +1,7 @@
 ## Day 6
 
 ### Lab
-1. [Retrieve data within a date range -> Visualize| Time Series](https://editor.p5js.org/lee.inhye/sketches/xHi7AX46A) 
+1. [Retrieve data within a date range -> Visualize | Time Series](https://editor.p5js.org/lee.inhye/sketches/xHi7AX46A) 
 
 ### Useful functions 
 1. Minimum: [min()](https://p5js.org/reference/#/p5/min) | Maximum: [max()](https://p5js.org/reference/#/p5/max) Value in the array
