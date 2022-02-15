@@ -36,7 +36,7 @@ Regarding, Air quality data, apart from PM2.5 we have additional data sets on ot
 4. Explore Data (Google Spreadsheet - > Pivot Table -> Chart, [Flourish](https://flourish.studio/) ) 
 5. Who is your audience? 
 6. Who provided your data? 
-7. Come up with a visualization idea (Bring your sketch for your main visualization. Explain your logic)
+7. Come up with a visualization idea (Bring a couple of sketches for your main visualization. Explain your logic)
 8. You can start small but be sure to able to scale it as you progress your project.
 
 ### Midterm Plans (We'll re-think the midterm presentation date) 
