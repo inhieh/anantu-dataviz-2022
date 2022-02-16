@@ -8,7 +8,7 @@
 2. [How to get a unique value from array](https://appdividend.com/2022/01/28/how-to-get-distinct-values-from-array-in-javascript/)
 3. [Merging two arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 4. [Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
-5. switch: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch]
+5. [switch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 6. Array Functions 
 
 ### Weather / Air Quality Data - You can download data from all three below
