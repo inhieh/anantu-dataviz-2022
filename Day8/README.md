@@ -1,7 +1,7 @@
 ## Day 8
 
 ### Lab
-1. [min, max, sum, mean(average), median, mode](https://editor.p5js.org/lee.inhye/sketches/7FfI0MA92) 
+1. [min, max, sum, mean(average), median, mode](https://editor.p5js.org/lee.inhye/sketches/7FfI0MA92) - Basic Statistical Concepts
 
 ### Reading 
 1. [Understanding Comics](http://mm12.johncaserta.info/wp-content/uploads/2012/10/Understanding%20Comics%20(The%20Invisible%20Art)%20By%20Scott%20McCloud.pdf) - Time Series, Visual Communication 
