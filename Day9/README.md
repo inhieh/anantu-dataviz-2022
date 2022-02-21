@@ -3,7 +3,7 @@
 ### Lab
 1. [Leaflet Basic setup](https://editor.p5js.org/lee.inhye/sketches/KnMkIs-qM) - I followed [this tutorial](https://leafletjs.com/examples/quick-start/) on leaflet | [Coding Train](https://www.youtube.com/watch?v=nZaZ2dB6pow)'s take on leaflet 
 2. [Adding vector Layers from data to the map](https://editor.p5js.org/lee.inhye/sketches/xaxi19D7c)
-3. [Using a new map tiles from mapbox studio](https://editor.p5js.org/lee.inhye/sketches/eu844Yjtf) - To use a mapbox created style, you need to create an account from mapbox studio - Go through Tutorial 4 and 5
+3. [Using new map tiles from mapbox studio](https://editor.p5js.org/lee.inhye/sketches/eu844Yjtf) - To use a mapbox created style, you need to create an account from mapbox studio - Go through Tutorial 4 and 5
 4. Video Tutorial - [How to create a basemap style using mapbox studio](https://www.youtube.com/watch?v=9B851SXoKSw)
 5. Video Tutorial - [How to use custom-made mapbox style in leaflet](https://www.youtube.com/watch?v=b6Oh4ZBKf6o)
 
