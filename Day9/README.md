@@ -18,8 +18,10 @@
 3. Video - [Geojson structure](https://youtu.be/8RPfrhzRw2s?t=746) - Same video (from 12:26)
 
 ### Javascript based Mapping Environment 
-1. [leaflet](https://leafletjs.com/)
-2. [mapbox](https://www.mapbox.com/mapbox-studio/) 
-3. [Open Street Map](https://www.openstreetmap.org/) - Wikipedia of basemaps of the world  / Anyone can submit and edit
+1. [leaflet js](https://leafletjs.com/)
+2. [mappa js](https://mappa.js.org/)
+3. [mapbox](https://www.mapbox.com/mapbox-studio/) 
+4. [Open Street Map](https://www.openstreetmap.org/) - Wikipedia of basemaps of the world  / Anyone can submit and edit
 
-### Small Assignment 5 (TBD)
+### Small Assignment 4 (Until the end of today)
+Update the google spreadsheet under "teams" with your 1) write up 2) design 3) code
