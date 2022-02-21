@@ -37,7 +37,7 @@ Regarding, Air quality data, apart from PM2.5 we have additional data sets on ot
 5. Who is your audience? 
 6. Who provided your data? 
 7. Come up with a visualization idea (Bring a couple of sketches for your main visualization. Explain your logic)
-8. You can start small but be sure to able to scale it as you progress your project.
+8. You can start small but be sure to be able to scale it as you progress your project.
 
 ### Midterm Plans (We'll re-think the midterm presentation date) 
 1. You can work with alone or with a team (Maximum of three. In case of a groupwork, You all have to contribute to the project. Specify your role in detail) 
