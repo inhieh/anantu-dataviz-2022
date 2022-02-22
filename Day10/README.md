@@ -21,7 +21,7 @@
 3. [Mapping Clusters of NYPD Officers](https://gothamist.com/news/mapping-clusters-nypd-officers-repeatedly-accused-misconduct) - Network Graph
 4. [Reuters - Visualising the world’s addiction to plastic bottles](https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.html) - Very Graphic, Use of Size
 
-### Reading on visualizations dealing with huamn conditions
+### Reading on visualizations dealing with human conditions
 1. [W.E.B Dubois](https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/)
 2. [Visualizing Racism](https://globalknowledgeinitiative.medium.com/visualizing-racism-four-ways-to-powerfully-visualize-systemic-racism-in-the-united-states-42b3f2d73b09)
 
