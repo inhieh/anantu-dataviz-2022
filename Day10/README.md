@@ -15,7 +15,7 @@
 1. [Axes and Labels](https://www.carbondesignsystem.com/data-visualization/axes-and-labels/)
 2. [Legends](https://www.carbondesignsystem.com/data-visualization/legends/)
 
-### A few other visualizations about Brutality, Human Mistakes and Human Conditions
+### A few visualizations about Brutality, Human Mistakes and Human Conditions
 1. [How Belarusian police beat protesters](https://mediazona.by/article/2020/11/03/minsk-beaten-en) - Very Graphic, Use of Size
 2. [Mapping Police Violence](https://mappingpoliceviolence.org/) - US, Statistical Graph
 3. [Mapping Clusters of NYPD Officers](https://gothamist.com/news/mapping-clusters-nypd-officers-repeatedly-accused-misconduct) - Network Graph
