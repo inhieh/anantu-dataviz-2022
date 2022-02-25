@@ -1,7 +1,7 @@
 ## Day 12 
 
-### Today's guest lecturer 
-Ganesh Ramanathan (Director of User Experience at [Travelers](https://www.travelers.com/)) 
+### Today's guest lecturer, Ganesh Ramanathan 
+#### Director of User Experience at [Travelers](https://www.travelers.com/)
 
 0. His general guideline from his lecture is shared with you in today's slide
 1. [Quick Affinity Mappping Template](https://app.mural.co/t/ganeshramanathan4845/m/ganeshramanathan4845/1645757264161/4f97753f300337b141d0b2586ffaa7546a089638?sender=ganyabhai8608) - Feedback Grid on Mural to mark down observations and synthesize insights
