@@ -1,6 +1,6 @@
 ## Day 12 
 
-### Today's guest lecturer, Ganesh Ramanathan (User Testing)
+### Today's Guest Lecturer, Ganesh Ramanathan (User Testing)
 #### Director of User Experience at [Travelers](https://www.travelers.com/)
 
 0. A general guideline from his lecture is shared with you in today's slide
