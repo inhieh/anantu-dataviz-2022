@@ -1,4 +1,4 @@
 ## Day 12 
 
 ### Today's guest lecturer 
-Ganesh Ramanathan (User Experience Design Director) 
+Ganesh Ramanathan (Director of User Experience at Travelers) 
