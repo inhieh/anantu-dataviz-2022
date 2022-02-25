@@ -16,8 +16,8 @@
 
 ### Small Assignment 5 (Testable Prototype, User Testing Plan, Due: 8AM, Day 13)
 1. Your prototype (Depending on your project development)
-- What you have now 
-- A few different stages of your visualization that includes what you want to test
+- What you have now or 
+- A few different stages of your visualization that includes what you want to test or
 - Figma prototype (Only if you have time)
 2. Create your plan for user testing as it pertains to your project 
 - Your Target User
@@ -25,6 +25,9 @@
 - Protocol: Your Research Questions on user behaviors you'd like to know about (information delivery, interaction, emotive quality..)
 - Task: Tasks User have to complete to get your answers 
 - Method: How are you going to perform this test? (We talked about remote user testing with camera recording)
-3. Tues, Wed - User Testing
-4. Thurs - Synthesize your learning 
-5. Fri thru Weekend - Reiteration
+
+### Our Future Ahead
+1. Tues, Wed - User Testing
+2. Thurs - Synthesize your learning 
+3. Fri thru Weekend - Reiteration
+4. The following Monday - Presentation
