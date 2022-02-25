@@ -1,13 +1,13 @@
 ## Day 12 
 
-### Today's guest lecturer, Ganesh Ramanathan 
+### Today's guest lecturer, Ganesh Ramanathan (User Testing)
 #### Director of User Experience at [Travelers](https://www.travelers.com/)
 
-0. His general guideline from his lecture is shared with you in today's slide
+0. A general guideline from his lecture is shared with you in today's slide
 1. [Quick Affinity Mappping Template](https://app.mural.co/t/ganeshramanathan4845/m/ganeshramanathan4845/1645757264161/4f97753f300337b141d0b2586ffaa7546a089638?sender=ganyabhai8608) - Feedback Grid on Mural to mark down observations and synthesize insights
 2. [Qualitative Coding](https://delvetool.com/guide#:~:text=Qualitative%20coding%20is%20a%20process,themes%20and%20patterns%20for%20analysis.) - More Rigorous Method
 3. [Four Big Risks](https://svpg.com/four-big-risks/) - by Marty Cagan, the guru of product management
-4. Task Analysis - Max one Hour (A fewer than 3 or 4 tasks)
+4. Task Analysis - Max one Hour (Give users fewer than 3 or 4 tasks)
 
 ### Some Additional Resources 
 1. [An illustrated guide to User Testing in Data Visualization](https://stories.dataveyes.com/user-testing-in-data-visualisation-1-3-d426ed4ca2d2) by Dataveyes - Mostly describing their user testing process with [Thinking Aloud Method](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/)
