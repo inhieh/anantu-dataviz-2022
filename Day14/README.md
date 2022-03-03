@@ -1,6 +1,6 @@
 ## Day 14
 
-#### User Testing Results
+#### User Testing Results - Synthesize Insights 
 
 #### SVG with Javascript
 1. [Vector on Figma](https://www.figma.com/file/JSVhAfLHyF6UZqEN1CJ6Sf/Vector?node-id=0%3A1) - Save "ID attributes" when exporting
