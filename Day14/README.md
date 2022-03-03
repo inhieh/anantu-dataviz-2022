@@ -33,4 +33,4 @@ D3: commonly used in data viz. You can use its pre-built chart types. SVG-based.
 - Other supportive materials to back your work
 - Your data source
 - Describe how your redesign process: design vs redesign based on your user testing (This could be a separate page)
-3. Presenation your work (similar to your midterm presentation)
+3. Presentation your work (similar to your midterm presentation)
