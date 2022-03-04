@@ -11,7 +11,7 @@
 
 ### No Guest Speaker This Sunday
 
-### Next Monday - the Final Presentation (Day 16)
+### Next Monday - the Final Presentation (Day 16 | Please log in by 8:55 AM)
 1. All team members present. Please describe what each one worked on. 
 2. Take it as an opportunity to do a **formal presentation**. **Make it engaging and relatable**. (We will have new audience/jury panels who don't know your work) 
 - Project Background: Topic, Story, Audience (Target Users)
