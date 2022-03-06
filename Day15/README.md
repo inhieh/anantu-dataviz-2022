@@ -32,8 +32,6 @@
 8. Total Presentation - Think of 7 min max / Make every minute count / Rehearse before the D-day
 
 There will be one or two members in the jury panel besides me. 
-One person is a faculty member from your department, who will give general feedback.
-Another person is a professional in data journalism / analytics.
 
 ### Class Reflection 
 1. The class had too much ______ (I wish there were less ______)
