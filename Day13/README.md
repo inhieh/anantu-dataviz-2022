@@ -1,7 +1,7 @@
 ## Day 13 
 
 ### Continuation of Small Assignment 5 (Due 8AM, Thur, Day 14)
-#### Conducting User Testing & Synthesize your observations 
+#### Conducting User Testing & Synthesizing your observations 
 1. Four W's (Your user profile)
 - Who is impacted by the issue? (Users' motivations and goals)
 - What is the problem / What are the obstacles / What are they trying to do?
