@@ -16,7 +16,7 @@ Data Viz + User Testing Course for Anant U  (Feb 7 - March 7 2022)
 
 #### 2. Crimes, Suicides and Drugs
 - Crimes in India: Riya, Vidushi, Akash - [Presentation & Prototype](https://www.figma.com/proto/zEOHb2gaRNQB9Zd5JcU9Xb/Data-Viz?page-id=111%3A311&node-id=111%3A315&viewport=241%2C48%2C0.07&scaling=scale-down&starting-point-node-id=111%3A315)
-- Suicides in India from 2011 - 2020: Manas - [Presentation](https://www.figma.com/proto/tHloB816hnUPVhtJWaAef9/Final-DataViz-2022?page-id=0%3A1&node-id=1%3A2) | [Prototype]()
+- Suicides in India from 2011 - 2020: Manas - [Presentation](https://www.figma.com/proto/tHloB816hnUPVhtJWaAef9/Final-DataViz-2022?page-id=0%3A1&node-id=1%3A2) | [Prototype](https://editor.p5js.org/manas.prabhutendolkar/full/C0xPvMIRf)
 - Psychedelic Drug Use: Nabarun, Medha - [Presentation & Prototype](https://www.figma.com/proto/BMjNoIEYtEBvnxi5CaVOrE/User-Testing?node-id=199%3A173&scaling=scale-down-width&page-id=25%3A2) 
 
 #### 3. Economy and Performance
