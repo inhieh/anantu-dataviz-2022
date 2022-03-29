@@ -11,7 +11,7 @@ Data Viz + User Testing Course for Anant U  (Feb 7 - March 7 2022)
 ## Student Final Projects 
 #### 1. Transportation and Safety
 - Airports and Flight paths: Dev - [Presentation](https://www.figma.com/proto/rNnI2xoESrwXv6xNHehZKw/Dataviz-%7C-Airports-and-Flight-Paths?node-id=26%3A3&scaling=contain&page-id=26%3A3&starting-point-node-id=26%3A4) | [Prototype](https://editor.p5js.org/dev.desai/full/v9-SYNkLJ)
-- Plane Accidents Over the years: Sanjana, Angappan - [Presentation](https://docs.google.com/document/d/12kev39sJkcPx_P15EGzlN-m6u5foMYem5gsCn5emX94) | [Prototype](https://editor.p5js.org/AngappanAnnamalai/full/MbHYtQ01o)   
+- Plane Accidents Over the years: Sanjana, Angappan - [Presentation from midterm](https://www.figma.com/proto/Ko8Fl2lnT4zD7zZzr4qM5E/Data-Visualization-%26-User-Testing?node-id=141%3A219) | [Prototype](https://editor.p5js.org/AngappanAnnamalai/full/MbHYtQ01o)   
 - Road Accident in India: Nikhil, Shivam - [Presentation](https://www.figma.com/proto/WdAIrEEeBzQdRhRbQ1dfes/2-Presentation?node-id=47%3A12&scaling=contain&page-id=0%3A1) | [Prototype](https://editor.p5js.org/nikhil.bathini/full/qvKZvL8VM)
 
 #### 2. Crimes, Suicides and Drugs
